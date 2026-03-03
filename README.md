@@ -92,8 +92,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohd-adil-2005&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-adil-2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohd-adil-2005&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-adil-2005&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohd-adil-2005&theme=react-dark&hide_border=true)
 

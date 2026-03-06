@@ -7,8 +7,7 @@
 **B.Tech (IT)** · Shri Ram Murti Smarak College of Engineering & Technology, Bareilly
 
 *Motivated final-year student with a strong foundation in Java & MERN Stack. Building secure, scalable web apps and eager to contribute to real-world systems.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mernstack-adil.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-mohdadil.tech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdadil.tech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-adil-2005)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohd-adil-2005)
